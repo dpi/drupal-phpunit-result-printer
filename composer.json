@@ -13,7 +13,7 @@
         "phpstan/phpstan": "^1.7",
         "phpstan/phpstan-deprecation-rules": "^1.0",
         "phpstan/phpstan-strict-rules": "^1.2",
-        "phpunit/phpunit": "^9.5.20"
+        "phpunit/phpunit": "^9.5.20 || ^10.0.0"
     },
     "config": {
         "sort-packages": true,
